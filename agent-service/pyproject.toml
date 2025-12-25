@@ -14,7 +14,7 @@ dependencies = [
     "httpx>=0.25.0",
     "structlog>=23.2.0",
     # LlamaStack integration (matches Helm chart version 0.2.18)
-    "llama-stack-client==0.2.18",
+    "llama-stack-client==0.3.3",
     "requests>=2.31.0",
     "self-service-agent-shared-models",
     "opentelemetry-exporter-otlp-proto-http==1.37.0",
